@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          0.7.7
-Release:          1
+Release:          2
 Summary:          R interface to tslib (a time series library in c++)
 Group:            Sciences/Mathematics
 License:          GPL-3
