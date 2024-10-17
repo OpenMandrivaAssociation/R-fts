@@ -7,7 +7,7 @@ Release:          3
 Summary:          R interface to tslib (a time series library in c++)
 Group:            Sciences/Mathematics
 License:          GPL-3
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/%{packname}_%{version}.tar.gz
 Requires:         R-utils R-stats 
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex R-utils R-stats
